@@ -2,8 +2,9 @@ import time
 
 # =================================================================================
 # Technique 3: Caching/Memoization/Lookup Table
+# Demonstrates the optimization technique with the Fibonacci sequence, which has many overlapping subproblems.
 # =================================================================================
-# demonstrate the optimization technique with the Fibonacci sequence, which has many overlapping subproblems.
+
 
 
 #  Complexity: O(2^n) - very inefficient due to re-computation.
